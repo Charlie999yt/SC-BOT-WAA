@@ -1,2 +1,2 @@
 # SC-BOT-WA
-Subscribe Channel Hanbu FF
+# subscribe <link> YouTube.com/c/CHARLIE999
